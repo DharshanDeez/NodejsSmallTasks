@@ -1,0 +1,4 @@
+This is a simple text file.
+It contains some sample text
+to demonstrate the word count
+in the Node.js server.
